@@ -1,0 +1,25 @@
+D:\Lessons\Information Technologies of software development\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Lessons\Information Technologies of software development\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Lessons\Information Technologies of software development\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Lessons\Information Technologies of software development\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Lessons\Information Technologies of software development\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Labs\ИТРВПЗ\ITSD_1Lab-master\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Labs\ИТРВПЗ\ITSD_1Lab-master\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Labs\ИТРВПЗ\ITSD_1Lab-master\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Labs\ИТРВПЗ\ITSD_1Lab-master\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Labs\ИТРВПЗ\ITSD_1Lab-master\Calculator\bin\Debug\Calculator.exe.config
+E:\Labs\ИТРВПЗ\ITSD_1Lab-master\Calculator\bin\Debug\Calculator.exe
+E:\Labs\ИТРВПЗ\ITSD_1Lab-master\Calculator\bin\Debug\Calculator.pdb
+E:\Labs\ИТРВПЗ\ITSD_1Lab-master\Calculator\obj\Debug\Calculator.exe
+E:\Labs\ИТРВПЗ\ITSD_1Lab-master\Calculator\obj\Debug\Calculator.pdb
+E:\Labs\ИТРВПЗ\ITSD_1Lab-master\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Lessons\Information_Technologies_of_software_development\Lab_2-5\bin\Debug\Calculator.exe.config
+D:\Lessons\Information_Technologies_of_software_development\Lab_2-5\bin\Debug\Calculator.exe
+D:\Lessons\Information_Technologies_of_software_development\Lab_2-5\bin\Debug\Calculator.pdb
+D:\Lessons\Information_Technologies_of_software_development\Lab_2-5\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Lessons\Information_Technologies_of_software_development\Lab_2-5\obj\Debug\Calculator.Form1.resources
+D:\Lessons\Information_Technologies_of_software_development\Lab_2-5\obj\Debug\Calculator.Properties.Resources.resources
+D:\Lessons\Information_Technologies_of_software_development\Lab_2-5\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Lessons\Information_Technologies_of_software_development\Lab_2-5\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Lessons\Information_Technologies_of_software_development\Lab_2-5\obj\Debug\Calculator.exe
+D:\Lessons\Information_Technologies_of_software_development\Lab_2-5\obj\Debug\Calculator.pdb
