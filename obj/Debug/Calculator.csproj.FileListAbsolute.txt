@@ -23,3 +23,13 @@ D:\Lessons\Information_Technologies_of_software_development\Lab_2-5\obj\Debug\Ca
 D:\Lessons\Information_Technologies_of_software_development\Lab_2-5\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 D:\Lessons\Information_Technologies_of_software_development\Lab_2-5\obj\Debug\Calculator.exe
 D:\Lessons\Information_Technologies_of_software_development\Lab_2-5\obj\Debug\Calculator.pdb
+C:\Users\HOME\Source\Repos\KYHusyna\ITSD.Lab2-5\bin\Debug\Calculator.exe.config
+C:\Users\HOME\Source\Repos\KYHusyna\ITSD.Lab2-5\bin\Debug\Calculator.exe
+C:\Users\HOME\Source\Repos\KYHusyna\ITSD.Lab2-5\bin\Debug\Calculator.pdb
+C:\Users\HOME\Source\Repos\KYHusyna\ITSD.Lab2-5\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\HOME\Source\Repos\KYHusyna\ITSD.Lab2-5\obj\Debug\Calculator.Form1.resources
+C:\Users\HOME\Source\Repos\KYHusyna\ITSD.Lab2-5\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\HOME\Source\Repos\KYHusyna\ITSD.Lab2-5\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\HOME\Source\Repos\KYHusyna\ITSD.Lab2-5\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Source\Repos\KYHusyna\ITSD.Lab2-5\obj\Debug\Calculator.exe
+C:\Users\HOME\Source\Repos\KYHusyna\ITSD.Lab2-5\obj\Debug\Calculator.pdb

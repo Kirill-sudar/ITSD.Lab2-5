@@ -41,6 +41,8 @@ namespace Calculator
             this.label1 = new System.Windows.Forms.Label();
             this.label_res = new System.Windows.Forms.Label();
             this.textBox3 = new System.Windows.Forms.TextBox();
+            this.cos_btn = new System.Windows.Forms.Button();
+            this.syn_btn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBox1
@@ -53,7 +55,7 @@ namespace Calculator
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(131, 35);
+            this.textBox2.Location = new System.Drawing.Point(253, 35);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 1;
@@ -80,7 +82,7 @@ namespace Calculator
             // label_Y
             // 
             this.label_Y.AutoSize = true;
-            this.label_Y.Location = new System.Drawing.Point(128, 19);
+            this.label_Y.Location = new System.Drawing.Point(250, 19);
             this.label_Y.Name = "label_Y";
             this.label_Y.Size = new System.Drawing.Size(57, 13);
             this.label_Y.TabIndex = 4;
@@ -127,7 +129,7 @@ namespace Calculator
             // label_res
             // 
             this.label_res.AutoSize = true;
-            this.label_res.Location = new System.Drawing.Point(50, 158);
+            this.label_res.Location = new System.Drawing.Point(85, 160);
             this.label_res.Name = "label_res";
             this.label_res.Size = new System.Drawing.Size(40, 13);
             this.label_res.TabIndex = 9;
@@ -135,16 +137,36 @@ namespace Calculator
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(96, 155);
+            this.textBox3.Location = new System.Drawing.Point(131, 157);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(100, 20);
             this.textBox3.TabIndex = 10;
+            // 
+            // cos_btn
+            // 
+            this.cos_btn.Location = new System.Drawing.Point(253, 117);
+            this.cos_btn.Name = "cos_btn";
+            this.cos_btn.Size = new System.Drawing.Size(100, 23);
+            this.cos_btn.TabIndex = 12;
+            this.cos_btn.Text = "Cos";
+            this.cos_btn.UseVisualStyleBackColor = true;
+            // 
+            // syn_btn
+            // 
+            this.syn_btn.Location = new System.Drawing.Point(253, 76);
+            this.syn_btn.Name = "syn_btn";
+            this.syn_btn.Size = new System.Drawing.Size(100, 23);
+            this.syn_btn.TabIndex = 11;
+            this.syn_btn.Text = "Syn";
+            this.syn_btn.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(251, 189);
+            this.ClientSize = new System.Drawing.Size(365, 189);
+            this.Controls.Add(this.cos_btn);
+            this.Controls.Add(this.syn_btn);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.label_res);
             this.Controls.Add(this.label1);
@@ -179,6 +201,8 @@ namespace Calculator
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label_res;
         private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.Button cos_btn;
+        private System.Windows.Forms.Button syn_btn;
     }
 }
 

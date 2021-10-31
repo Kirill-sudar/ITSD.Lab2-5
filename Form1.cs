@@ -118,6 +118,7 @@ namespace Calculator
         {
             this.Height = 194;
         }
+
         //realize interface of an arithmetic actions for any button
     }
 }
