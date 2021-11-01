@@ -12,5 +12,7 @@ namespace Calculator
         double Division(double a, double b);
         double Sum(double a, double b);
         double Subtraction(double a, double b);
+        double Sin(double a);
+        double Cos(double a);
     }
 }

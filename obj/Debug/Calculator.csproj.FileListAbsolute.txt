@@ -33,3 +33,13 @@ C:\Users\HOME\Source\Repos\KYHusyna\ITSD.Lab2-5\obj\Debug\Calculator.csproj.Gene
 C:\Users\HOME\Source\Repos\KYHusyna\ITSD.Lab2-5\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\HOME\Source\Repos\KYHusyna\ITSD.Lab2-5\obj\Debug\Calculator.exe
 C:\Users\HOME\Source\Repos\KYHusyna\ITSD.Lab2-5\obj\Debug\Calculator.pdb
+E:\Labs\ИТРВПЗ\ЛР№2\ITSD.Lab2-5\bin\Debug\Calculator.exe.config
+E:\Labs\ИТРВПЗ\ЛР№2\ITSD.Lab2-5\bin\Debug\Calculator.exe
+E:\Labs\ИТРВПЗ\ЛР№2\ITSD.Lab2-5\bin\Debug\Calculator.pdb
+E:\Labs\ИТРВПЗ\ЛР№2\ITSD.Lab2-5\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Labs\ИТРВПЗ\ЛР№2\ITSD.Lab2-5\obj\Debug\Calculator.Form1.resources
+E:\Labs\ИТРВПЗ\ЛР№2\ITSD.Lab2-5\obj\Debug\Calculator.Properties.Resources.resources
+E:\Labs\ИТРВПЗ\ЛР№2\ITSD.Lab2-5\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Labs\ИТРВПЗ\ЛР№2\ITSD.Lab2-5\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Labs\ИТРВПЗ\ЛР№2\ITSD.Lab2-5\obj\Debug\Calculator.exe
+E:\Labs\ИТРВПЗ\ЛР№2\ITSD.Lab2-5\obj\Debug\Calculator.pdb

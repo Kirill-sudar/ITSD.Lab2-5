@@ -27,5 +27,13 @@ namespace Calculator
         {
             return a - b;
         }
+        public double Sin(double a)
+        {
+            return Math.Sin(a);
+        }
+        public double Cos(double a)
+        {
+            return Math.Cos(a);
+        }
     }
 }
