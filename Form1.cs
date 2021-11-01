@@ -163,10 +163,6 @@ namespace Calculator
                     if (!double.TryParse(textBox2.Text, out tmp)) throw new ArithmeticException();
                     double value = Double.Parse(textBox2.Text) * Math.PI / 180.0;
                     double res = c.Sin(value);
-                    if (Int32.TryParse(textBox1.Text, out temp) && textBox1.Text.Contains('0'))
-                    {
-                        textBox1.Text = textBox1.Text.TrimStart('0');
-                    }
                     if (Int32.TryParse(textBox2.Text, out temp) && textBox2.Text.Contains('0'))
                     {
                         textBox2.Text = textBox2.Text.TrimStart('0');
@@ -196,10 +192,6 @@ namespace Calculator
                     double value = Double.Parse(textBox2.Text) * Math.PI / 180.0;
                     double res = c.Cos(value);
                     this.Height = 228;
-                    if (Int32.TryParse(textBox1.Text, out temp) && textBox1.Text.Contains('0'))
-                    {
-                        textBox1.Text = textBox1.Text.TrimStart('0');
-                    }
                     if (Int32.TryParse(textBox2.Text, out temp) && textBox2.Text.Contains('0'))
                     {
                         textBox2.Text = textBox2.Text.TrimStart('0');
